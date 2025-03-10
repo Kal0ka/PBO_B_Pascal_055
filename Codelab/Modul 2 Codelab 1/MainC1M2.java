@@ -4,8 +4,5 @@ public class MainC1M2 {
         Hewan hewan2 = new Hewan("Anjing","Mamalia","Woof~~");
         hewan1.TampilkanInfo();
         hewan2.TampilkanInfo();
-
-
-
     }
 }

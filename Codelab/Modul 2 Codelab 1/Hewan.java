@@ -1,7 +1,5 @@
 public class Hewan {
-    String Nama;
-    String Jenis;
-    String Suara;
+    String Nama, Jenis, Suara;
     public Hewan (String Nama, String Jenis, String Suara) {
         this.Nama = Nama;
         this.Jenis = Jenis;
@@ -13,4 +11,3 @@ public class Hewan {
         System.out.println("Suara : " + Suara + "\n");
     }
 }
-
