@@ -3,13 +3,15 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Tugas/Tugas 1/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Tugas/Tugas 1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Tugas/Tugas 2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Codelab/Modul 1 Codelab 1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Codelab/Modul 2 Codelab 1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Codelab/Modul 2 Codelab 2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Praktek/Praktek Modul 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Codelab/Modul 3 Codelab 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tugas/Tugas  Modul 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tugas/Tugas  Modul 1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tugas/Tugas Modul 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tugas/Tugas Modul 3" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
