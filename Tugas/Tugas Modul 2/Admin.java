@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Admin {
     Scanner scr = new Scanner(System.in);
-    String Username;
+    String Username ;
     String Password;
 
     public Admin (String Username, String Password){
